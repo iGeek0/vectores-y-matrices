@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1496557088 source:c:\users\jesusc\desktop\vectore\ejercicio_final\main.cpp
+	"iostream"
+	"stdio.h"
+	"string"
+	<sstream>
+	<iomanip>
+
